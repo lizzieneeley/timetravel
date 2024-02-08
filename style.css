@@ -1,0 +1,42 @@
+.button{
+    padding: 19px 45px;
+    background-color: #0d6efd;
+    color: white;
+    border-color:#0d6efd;
+    border-radius: 50px;
+    
+}
+.center{
+    text-align:center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+img{
+    border-radius: 50%;
+}
+
+#move{
+    padding-left: 32px;
+}
+
+#title{
+    color:#10259b;
+    font-family: fantasy;
+}
+
+body{
+    background-color: aqua;
+}
