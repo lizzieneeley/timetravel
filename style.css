@@ -27,3 +27,8 @@
   img{
     border-radius: 50pc;
   }
+
+  #title{
+    font-family: fantasy;
+    color: rgb(76, 4, 90);
+  }
