@@ -1,8 +1,8 @@
 .button{
     padding: 3px 45px;
-    background-color: #0d6efd;
+    background-color:black;
     color: white;
-    border-color:#0d6efd;
+    border-color:black;
     border-radius: 50px;
 }
 .center{
@@ -39,4 +39,7 @@
   .carousel-inner .carousel-item img {
     width: 100%; 
     height: auto; 
+}
+#dark{
+  background-color:black;
 }
