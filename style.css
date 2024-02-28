@@ -17,18 +17,23 @@
   }
 
   .carousel slide{
-    padding-left:27px;
+    padding-left:24px;
   }
 
   .bodycolor{
-    background-color: #be41d4;
+    background-color: rgb(236, 218, 194);
   }
 
   img{
-    border-radius: 50pc;
+    border-radius: 60pc;
   }
 
   #title{
     font-family: fantasy;
-    color: rgb(76, 4, 90);
+    color: rgb(24, 23, 20);
+  }
+
+  p{
+    font-size: 38px;
+    color: rgb(251, 251, 255);
   }
