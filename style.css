@@ -20,20 +20,24 @@
   }
 
   .bodycolor{
-    background-color: rgb(236, 218, 194);
+    background-color: rgb(212, 183, 145);
   }
 
   img{
     border-radius: 60pc;
+    filter: grayscale(100%);
+    overflow: hidden;
+    
   }
 
   #title{
     font-family: fantasy;
     color: rgb(24, 23, 20);
+    
   }
 
   p{
-    font-size: 38px;
+    font-size: 25px;
     color: rgb(251, 251, 255);
   }
   .carousel-inner .carousel-item img {
@@ -52,4 +56,16 @@
 .Location{
   text-align: center;
   background-color: black;
+
 }
+
+#title{
+  font-family: Oxanium;
+}
+
+.ppl{
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+ 
