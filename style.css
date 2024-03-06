@@ -55,8 +55,8 @@
 
 .Location{
   text-align: center;
-  background-color: black;
-
+  font-size: 40px;
+  color:rgb(65, 65, 65)
 }
 
 #title{
@@ -64,10 +64,24 @@
 }
 
 .ppl{
-    padding-left: 30px;
+    padding-left: 80px;
     padding-right: 30px;
 }
 
  .women{
   border-color: black;
  }
+
+ .mapp{
+  text-align: center;
+  padding-bottom: 30px;
+ }
+
+.foott{
+  color:black;
+}
+
+h1{
+  padding-left: 15px;
+}
+
